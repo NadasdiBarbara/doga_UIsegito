@@ -1,0 +1,32 @@
+input{
+    width: 95%;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.mintasor{
+    margin: 10px 33%;
+    background-color: rgb(238, 230, 230);
+    width: 400px;
+    
+}
+.elonezet1{
+    margin: 10px 33%;
+    
+}
+#hiba{
+    color:red;
+}
+#alaphelyzet{
+    margin-right: 50px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    
+}
+#elonezet{
+    text-align: center;
+}
+.valami{
+    margin-left: 5px;
+    padding: 5px;
+}
+
